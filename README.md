@@ -19,4 +19,4 @@ Once the program is running, you can use it to register new users, track their a
 
 ## Acknowledgements
 
-This project was made possible thanks to the hard work and dedication of my friend [Can Kankılıç](https://github.com/cankromo). Thank you for your contributions and for making this project a reality!
+This project was made possible thanks to the hard work and dedication of my friend [Ahmet Yusuf Demir](https://github.com/ahmetdem). Thank you for your contributions and for making this project a reality!
