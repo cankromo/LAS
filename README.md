@@ -12,9 +12,7 @@ To get started with the project, follow these steps:
 4. Run the program by executing `python scripts/main.py`.
 
 ## Usage
-
-Once the program is running, you can use it to register new users, track their activity, and analyze the data. The program provides a interface that allows you to interact with it, see the analyzed data, register new users and running the reading script so the users can scan their qr code so that the program does it's job.
-
+LAS: QR code supported user tracking system with an administrative interface, shows the monthly, weekly and hourly user numbers in the location statistically and visually to the administrator.
 
 
 ## Acknowledgements
