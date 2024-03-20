@@ -1,7 +1,5 @@
 # LAS Project
-
-[This folder](https://github.com/ahmetdem/Projects/tree/main/LAS) contains the code for a project that allows organizations to register, track, and analyze user activity. 
-
+LAS is a Python application for a place administration staff to track client, user number based on hours, months and days. I
 ## Getting Started
 
 To get started with the project, follow these steps:
@@ -11,8 +9,6 @@ To get started with the project, follow these steps:
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 4. Run the program by executing `python scripts/main.py`.
 
-## Usage
-LAS: QR code supported user tracking system with an administrative interface, shows the monthly, weekly and hourly user numbers in the location statistically and visually to the administrator.
 
 
 ## Acknowledgements
