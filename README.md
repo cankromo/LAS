@@ -16,9 +16,9 @@ Additionaly, on "General" page dashboard provides all users registered, users by
 
 
 <div style="display:flex; justify-content:center;">
-    <img src="https://github.com/cankromo/LAS/assets/117471464/00f3aea1-d2ab-4ee5-a6f0-262f7ef7c17d" alt="Screenshot_5" width="310">
-    <img src="https://github.com/cankromo/LAS/assets/117471464/2860570d-d18a-4de9-8f28-a8050374d055" alt="Screenshot_2" width="310">
-    <img src="https://github.com/cankromo/LAS/assets/117471464/64a6bd59-c31f-44c7-9add-4131f11ebe2a" alt="Screenshot_3" width="310">
+    <img src="https://github.com/cankromo/LAS/assets/117471464/00f3aea1-d2ab-4ee5-a6f0-262f7ef7c17d" alt="Screenshot_5" width="400">
+    <img src="https://github.com/cankromo/LAS/assets/117471464/2860570d-d18a-4de9-8f28-a8050374d055" alt="Screenshot_2" width="400">
+    <img src="https://github.com/cankromo/LAS/assets/117471464/64a6bd59-c31f-44c7-9add-4131f11ebe2a" alt="Screenshot_3" width="400">
 </div>
 
 ## Getting Started
